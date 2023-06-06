@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 - 我的博客: [WindWant](https://www.cnblogs.com/niejunlei)
 
-- 我的公众号: 关注我的公众号【后端码事】，获取最新技术文章信息
+- 我的公众号: 【后端码事】
 
-![后端码事](https://github.com/windwant/windwant.github.io/assets/16282845/6b9a8991-1017-4533-8184-1e8348239ac2)
+    关注我的公众号，获取最新技术文章信息
+
+    ![qrcode_for_gh_237d908657a6_258](https://github.com/windwant/windwant/assets/16282845/3fbc4dc5-ebec-4f6c-a9e4-633ac3f9a41d)
+
+
