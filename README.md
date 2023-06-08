@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 我的 git pages: [windwant.github.io](https://windwant.github.io/)
+- 我的 git pages 主页: 
+    
+    [windwant.github.io](https://windwant.github.io/)
+    
+    内附文章链接，欢迎移步查阅！
 
 - 我的 github: [github.com](https://github.com/windwant)
 
