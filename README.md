@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 
 - 我的 github: [github.com](https://github.com/windwant)
 
-- 我的博客:
-
-    [博客园](https://www.cnblogs.com/niejunlei)
-
-    [CSDN](https://blog.csdn.net/u012935445)
-
-    [掘金](https://juejin.cn/user/544975544661917)
+- 我的博客:[博客园](https://www.cnblogs.com/niejunlei) | [CSDN](https://blog.csdn.net/u012935445) | [掘金](https://juejin.cn/user/544975544661917)
 
 - 我的公众号: 【后端码事】
 
