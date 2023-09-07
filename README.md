@@ -23,11 +23,11 @@ Here are some ideas to get you started:
     [windwant.github.io](https://windwant.github.io/)
     
 
-- 我的 github: [github.com](https://github.com/windwant)
+- 我的 github：[github.com](https://github.com/windwant)
 
-- 我的博客:[博客园](https://www.cnblogs.com/niejunlei) | [CSDN](https://blog.csdn.net/u012935445) | [掘金](https://juejin.cn/user/544975544661917)
+- 我的博客：[博客园](https://www.cnblogs.com/niejunlei) | [CSDN](https://blog.csdn.net/u012935445) | [掘金](https://juejin.cn/user/544975544661917)
 
-- 我的公众号: 【后端码事】
+- 我的公众号：【后端码事】
 
     关注我的公众号，获取最新技术文章信息
 
